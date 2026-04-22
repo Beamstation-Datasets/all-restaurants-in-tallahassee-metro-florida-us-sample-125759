@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c7e97613-d233-4f82-826b-5facd95c7da4",
+  "export_job_id": "58c16591-9b25-40b4-bf6c-342fe3470aef",
   "id_short": 125759,
-  "published_at": "2026-04-17T07:58:57Z",
+  "published_at": "2026-04-22T07:05:44Z",
   "repo_name": "all-restaurants-in-tallahassee-metro-florida-us-sample-125759",
   "sample_asset_name": "beamstation_125759_restaurants-us-tallahasseefl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/125759/beamstation_125759_restaurants-us-tallahasseefl_SAMPLE_DIST.csv",
-  "sample_records": 83,
-  "sample_sha256": "410b4aeded0546c163ea273a87a170d1e6a0472c790603bfa29dd99324f8cfbb",
-  "sample_size_bytes": 327257,
-  "total_records": 835
+  "sample_records": 57,
+  "sample_sha256": "5dcd9d087ba1f0975b05aae1b8f21e90bf8bcf8450a4489b8ed6ca8b7a3858ef",
+  "sample_size_bytes": 217114,
+  "total_records": 579
 }
