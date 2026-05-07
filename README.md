@@ -1,6 +1,6 @@
 # All Restaurants in Tallahassee (Metro), Florida, US
 
-> Free BeamStation sample export with 86 rows and masked direct-contact fields.
+> Free BeamStation sample export with 90 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `125759` |
 | Location | Tallahassee, FL |
 | Category | Restaurants |
-| Full dataset size | 863 records |
-| Free sample size | 86 records (9.97%) |
-| Last export | 2026-04-28T20:39:39.484352+00:00 |
+| Full dataset size | 906 records |
+| Free sample size | 90 records (9.93%) |
+| Last export | 2026-05-07T12:36:18.025140+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tallahassee-metro-florida-us-sample-125759/releases/download/sample-latest/beamstation_125759_restaurants-us-tallahasseefl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
